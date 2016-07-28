@@ -4,10 +4,68 @@
   
     
     <entry>
+      <title><![CDATA[一个合格iOS开发者必须要会的]]></title>
+      <url>http://yoursite.com/2016/07/27/%E7%BC%96%E7%A8%8B/iOS%E5%BC%80%E5%8F%91%E9%AB%98%E7%BA%A7%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E5%A4%87%E6%8A%80%E8%83%BD/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>此文仅以自勉!</p>
+</blockquote>
+<ul>
+<li><h3 id="编程语言"><a href="#编程语言" class="headerlink" title="编程语言"></a>编程语言</h3><ul>
+<li><h4 id="Swift"><a href="#Swift" class="headerlink" title="Swift"></a>Swift</h4></li>
+<li><h4 id="Objecttive-C"><a href="#Objecttive-C" class="headerlink" title="Objecttive-C"></a>Objecttive-C</h4></li>
+<li><h4 id="C-C"><a href="#C-C" class="headerlink" title="C++/C"></a>C++/C</h4></li>
+<li><h4 id="JavaScipt"><a href="#JavaScipt" class="headerlink" title="JavaScipt"></a>JavaScipt</h4></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><h3 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h3><ul>
+<li><h4 id="Mac-OSX"><a href="#Mac-OSX" class="headerlink" title="Mac OSX"></a>Mac OSX</h4></li>
+<li><h4 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h4></li>
+<li><h4 id="watchOS"><a href="#watchOS" class="headerlink" title="watchOS"></a>watchOS</h4></li>
+<li><h4 id="tvOS"><a href="#tvOS" class="headerlink" title="tvOS"></a>tvOS</h4></li>
+<li><h4 id="Linux-常用命令"><a href="#Linux-常用命令" class="headerlink" title="Linux 常用命令"></a>Linux 常用命令</h4></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><h3 id="开发工具集"><a href="#开发工具集" class="headerlink" title="开发工具集"></a>开发工具集</h3><ul>
+<li><h4 id="IDE"><a href="#IDE" class="headerlink" title="IDE"></a>IDE</h4><ul>
+<li><h5 id="Xcode"><a href="#Xcode" class="headerlink" title="Xcode"></a>Xcode</h5></li>
+<li><h5 id="AppCode"><a href="#AppCode" class="headerlink" title="AppCode"></a>AppCode</h5></li>
+</ul>
+</li>
+<li><h4 id="调试工具"><a href="#调试工具" class="headerlink" title="调试工具"></a>调试工具</h4></li>
+<li><h4 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h4></li>
+<li><h4 id="辅助工具"><a href="#辅助工具" class="headerlink" title="辅助工具"></a>辅助工具</h4></li>
+<li><h4 id="命令行工具"><a href="#命令行工具" class="headerlink" title="命令行工具"></a>命令行工具</h4></li>
+<li><h4 id="持续集成"><a href="#持续集成" class="headerlink" title="持续集成"></a>持续集成</h4></li>
+</ul>
+</li>
+<li><h3 id="开发基础"><a href="#开发基础" class="headerlink" title="开发基础"></a>开发基础</h3><ul>
+<li>#### </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><h3 id="开发进阶"><a href="#开发进阶" class="headerlink" title="开发进阶"></a>开发进阶</h3><ul>
+<li><h4 id="retainCount"><a href="#retainCount" class="headerlink" title="retainCount"></a>retainCount</h4></li>
+<li><h4 id="Runtime"><a href="#Runtime" class="headerlink" title="Runtime"></a>Runtime</h4></li>
+<li><h4 id="Runloop"><a href="#Runloop" class="headerlink" title="Runloop"></a>Runloop</h4></li>
+<li><h4 id="沙盒机制"><a href="#沙盒机制" class="headerlink" title="沙盒机制"></a>沙盒机制</h4></li>
+<li><h4 id="Coretext"><a href="#Coretext" class="headerlink" title="Coretext"></a>Coretext</h4></li>
+<li><h4 id="Class-dump"><a href="#Class-dump" class="headerlink" title="Class dump"></a>Class dump</h4></li>
+</ul>
+</li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[二十三岁的时候]]></title>
-      <url>http://yoursite.com/2016/05/24/%E7%94%9F%E6%B4%BB%E4%B9%8B%E7%BE%8E/%E4%BA%8C%E5%8D%81%E4%B8%89%E5%B2%81%E7%9A%84%E6%97%B6%E5%80%99/</url>
-      <content type="html"><![CDATA[<pre><code>二十三岁的时候
-</code></pre><p>一岁的时候，我每天忙着喝奶尿床，偶尔也抡圆了嘴巴嚎两嗓子吓吓我妈，也抽不出来时间干别的。</p>
+      <url>http://yoursite.com/2016/05/24/%E6%B4%BB%E7%9D%80/%E4%BA%8C%E5%8D%81%E4%B8%89%E5%B2%81%E7%9A%84%E6%97%B6%E5%80%99/</url>
+      <content type="html"><![CDATA[<p><img src="http://desk.fd.zol-img.com.cn/t_s1280x800c5/g5/M00/02/04/ChMkJlbKyFqIWOqsAADFm8DNVvwAALIBAB6aDMAAMWz070.jpg" alt="ZOL壁纸002"><br>一岁的时候，我每天忙着喝奶尿床，偶尔也抡圆了嘴巴嚎两嗓子吓吓我妈，也抽不出来时间干别的。</p>
+<a id="more"></a>
 <p>二岁的时候，我学会站着尿尿了，知道这玩意不是好东西，尿床上会挨抽。</p>
 <p>三岁的时候，第一次见爸妈吵架，不太懂，只记得老爸吵着要摔东西，最后天黑了点，那些瓶瓶罐罐、碟碟碗碗的怎么被拿出去到院子的又怎么被老爸小心翼翼搬回来了，而且比以前还规整了好多。</p>
 <p>四岁的时候，我发现了世界上原来还有一种人和我不一样，她们无论large的还是small的，都是蹲着的！</p>
@@ -32,24 +90,6 @@
 <p>二十二岁的时候，就是现在了哈，以前看网上把大学生分成了四类，我应该算是那种按部就班的吧，上课的时候上课，考试的时候考试从来没努力过的，从来也没有真正的改变过，但是又有着自己一丁点的底线，像一个傀儡，完全像是在被大学上，而且好像是被QJ一样，不能反抗。</p>
 <p>二十三岁的时候，我不知道我又会是一个什么样子，但是我想我一定不会还是现在这个样子的…… </p>
 <p>(ps:2013.4.19写的!如今再看到这些的时候,我已经26岁了!不觉感慨时光!)</p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[一生中，可以喜欢很多人，但心疼的，只有一个。]]></title>
-      <url>http://yoursite.com/2016/05/24/%E5%A4%B4%E7%9A%AE%E5%8F%91%E9%BA%BB/%E9%9F%B3%E4%B9%90%E5%88%86%E4%BA%AB1/</url>
-      <content type="html"><![CDATA[<pre><code>一生中，可以喜欢很多人，但心疼的，只有一个。
-</code></pre>]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[开篇瞎咧咧]]></title>
-      <url>http://yoursite.com/2016/05/19/%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E5%BC%80%E7%AF%87%E7%9E%8E%E5%92%A7%E5%92%A7/</url>
-      <content type="html"><![CDATA[<!--<blockquote class = "blockquote-center">有什么问题尽管说,我一定不会回复的...🐶</blockquote>
-</br>
->最近访客-->
-<!--<div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>-->
-<p><img src="http://desk.fd.zol-img.com.cn/t_s1024x768c5/g5/M00/0F/05/ChMkJ1brrC2IITUlABjEFdWAomQAAN8GwEhxl0AGMQt481.jpg" alt="百度"><br>价值性<br>小说的价值本质是以时间为序列、以某一人物或几个人物为主线的，非常详细地、全面地反映社会生活中各种角色的价值关系(政治关系、经济关系和文化关系)的产生、发展与消亡过程。非常细致地、综合地展示各种价值关系的相互作用。<br><a id="more"></a><br>容量性<br>与其他文学样式相比，小说的容量较大，它可以细致地展现人物性格和人物命运，可以表现错综复杂的矛盾冲突，同时还可以描述人物所处的社会生活环境。小说的优势是可以提供整体的、广阔的社会生活。<br>情节性<br>小说主要是通过故事情节来展现人物性格、表现中心的。故事来源于生活，但它通过整理、提炼和安排，就比现实生活中发生的真实实例更加集中，更加完整，更具有代表性。<br>环境性<br>小说的环境描写和人物的塑造与中心思想有极其重要的关系。在环境描写中，社会环境是重点，它揭示了种种复杂的社会关系，如人物的身份、地位、成长的历史背景等等。自然环境包括人物活动的地点、时间、季节、气候以及景物等等。自然环境描写对表达人物的心情、渲染环境气氛都有不少的作用。<br>发展性<br>小说是随着时代的发展而发展的：魏晋南北朝，文人的笔记小说，是中国古代小说的雏形；唐代传奇的出现，尤其是三大爱情传奇，标志着古典小说的正式形成；宋元两代，随着商品经济和市井文化的发展，出现了话本小说，为小说的成熟奠定了坚实的基础；明清小说是中国古代小说发展的高峰，至今在古典小说领域内，没有可超越者，四大名著皆发于此。<br>纯粹性<br>纯文学中的小说体裁讲究纯粹性。“谎言去尽之谓纯。”(出自墨人钢《就是》创刊题词)便是所谓的“纯”。也就是说，小说在构思及写作的过程中能去尽政治谎言、道德谎言、商业谎言、维护阶级权贵谎言、愚民谎言等谎言，使呈现出来的小说成品具备纯粹的艺术性。小说的纯粹性是阅读者最重要的审美期待之一。随着时代的发展，不光是小说，整个文学的纯粹性逾来逾成为整个世界对文学审美的一个重要核心。</p>
 ]]></content>
     </entry>
     
