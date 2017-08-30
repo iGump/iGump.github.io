@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-06T10:10:54.000Z</updated>
+  <updated>2016-07-27T06:00:40.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,109 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>2017力行清单</title>
-    <link href="http://yoursite.com/2017/02/06/%E5%B9%B4%E8%AE%A1%E5%88%92/2017%E5%8A%9B%E8%A1%8C%E6%B8%85%E5%8D%95/"/>
-    <id>http://yoursite.com/2017/02/06/年计划/2017力行清单/</id>
-    <published>2017-02-06T10:10:54.000Z</published>
-    <updated>2017-02-06T10:10:54.000Z</updated>
-    
-    <content type="html">&lt;p&gt;一岁的时候，我每天忙着喝奶尿床，偶尔也抡圆了嘴巴嚎两嗓子吓吓我妈，也抽不出来时间干别的。&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;一岁的时候，我每天忙着喝奶尿床，偶尔也抡圆了嘴巴嚎两嗓子吓吓我妈，也抽不出来时间干别的。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="2017" scheme="http://yoursite.com/tags/2017/"/>
-    
-      <category term="计划" scheme="http://yoursite.com/tags/%E8%AE%A1%E5%88%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一个合格iOS开发者必须要会的</title>
-    <link href="http://yoursite.com/2016/07/27/%E7%BC%96%E7%A8%8B/iOS%E5%BC%80%E5%8F%91%E9%AB%98%E7%BA%A7%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E5%A4%87%E6%8A%80%E8%83%BD/"/>
-    <id>http://yoursite.com/2016/07/27/编程/iOS开发高级工程师必备技能/</id>
-    <published>2016-07-27T10:03:38.000Z</published>
-    <updated>2017-02-06T05:41:57.000Z</updated>
-    
-    <content type="html">&lt;blockquote&gt;
-&lt;p&gt;此文仅以自勉!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;h3 id=&quot;编程语言&quot;&gt;&lt;a href=&quot;#编程语言&quot; class=&quot;headerlink&quot; title=&quot;编程语言&quot;&gt;&lt;/a&gt;编程语言&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;h4 id=&quot;Swift&quot;&gt;&lt;a href=&quot;#Swift&quot; class=&quot;headerlink&quot; title=&quot;Swift&quot;&gt;&lt;/a&gt;Swift&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;Objecttive-C&quot;&gt;&lt;a href=&quot;#Objecttive-C&quot; class=&quot;headerlink&quot; title=&quot;Objecttive-C&quot;&gt;&lt;/a&gt;Objecttive-C&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;C-C&quot;&gt;&lt;a href=&quot;#C-C&quot; class=&quot;headerlink&quot; title=&quot;C++/C&quot;&gt;&lt;/a&gt;C++/C&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;JavaScipt&quot;&gt;&lt;a href=&quot;#JavaScipt&quot; class=&quot;headerlink&quot; title=&quot;JavaScipt&quot;&gt;&lt;/a&gt;JavaScipt&lt;/h4&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;h3 id=&quot;操作系统&quot;&gt;&lt;a href=&quot;#操作系统&quot; class=&quot;headerlink&quot; title=&quot;操作系统&quot;&gt;&lt;/a&gt;操作系统&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;h4 id=&quot;Mac-OSX&quot;&gt;&lt;a href=&quot;#Mac-OSX&quot; class=&quot;headerlink&quot; title=&quot;Mac OSX&quot;&gt;&lt;/a&gt;Mac OSX&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;iOS&quot;&gt;&lt;a href=&quot;#iOS&quot; class=&quot;headerlink&quot; title=&quot;iOS&quot;&gt;&lt;/a&gt;iOS&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;watchOS&quot;&gt;&lt;a href=&quot;#watchOS&quot; class=&quot;headerlink&quot; title=&quot;watchOS&quot;&gt;&lt;/a&gt;watchOS&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;tvOS&quot;&gt;&lt;a href=&quot;#tvOS&quot; class=&quot;headerlink&quot; title=&quot;tvOS&quot;&gt;&lt;/a&gt;tvOS&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;Linux-常用命令&quot;&gt;&lt;a href=&quot;#Linux-常用命令&quot; class=&quot;headerlink&quot; title=&quot;Linux 常用命令&quot;&gt;&lt;/a&gt;Linux 常用命令&lt;/h4&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;h3 id=&quot;开发工具集&quot;&gt;&lt;a href=&quot;#开发工具集&quot; class=&quot;headerlink&quot; title=&quot;开发工具集&quot;&gt;&lt;/a&gt;开发工具集&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;h4 id=&quot;IDE&quot;&gt;&lt;a href=&quot;#IDE&quot; class=&quot;headerlink&quot; title=&quot;IDE&quot;&gt;&lt;/a&gt;IDE&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;h5 id=&quot;Xcode&quot;&gt;&lt;a href=&quot;#Xcode&quot; class=&quot;headerlink&quot; title=&quot;Xcode&quot;&gt;&lt;/a&gt;Xcode&lt;/h5&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h5 id=&quot;AppCode&quot;&gt;&lt;a href=&quot;#AppCode&quot; class=&quot;headerlink&quot; title=&quot;AppCode&quot;&gt;&lt;/a&gt;AppCode&lt;/h5&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;调试工具&quot;&gt;&lt;a href=&quot;#调试工具&quot; class=&quot;headerlink&quot; title=&quot;调试工具&quot;&gt;&lt;/a&gt;调试工具&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;插件&quot;&gt;&lt;a href=&quot;#插件&quot; class=&quot;headerlink&quot; title=&quot;插件&quot;&gt;&lt;/a&gt;插件&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;辅助工具&quot;&gt;&lt;a href=&quot;#辅助工具&quot; class=&quot;headerlink&quot; title=&quot;辅助工具&quot;&gt;&lt;/a&gt;辅助工具&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;命令行工具&quot;&gt;&lt;a href=&quot;#命令行工具&quot; class=&quot;headerlink&quot; title=&quot;命令行工具&quot;&gt;&lt;/a&gt;命令行工具&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;持续集成&quot;&gt;&lt;a href=&quot;#持续集成&quot; class=&quot;headerlink&quot; title=&quot;持续集成&quot;&gt;&lt;/a&gt;持续集成&lt;/h4&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;h3 id=&quot;开发基础&quot;&gt;&lt;a href=&quot;#开发基础&quot; class=&quot;headerlink&quot; title=&quot;开发基础&quot;&gt;&lt;/a&gt;开发基础&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;#### &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;h3 id=&quot;开发进阶&quot;&gt;&lt;a href=&quot;#开发进阶&quot; class=&quot;headerlink&quot; title=&quot;开发进阶&quot;&gt;&lt;/a&gt;开发进阶&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;h4 id=&quot;retainCount&quot;&gt;&lt;a href=&quot;#retainCount&quot; class=&quot;headerlink&quot; title=&quot;retainCount&quot;&gt;&lt;/a&gt;retainCount&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;Runtime&quot;&gt;&lt;a href=&quot;#Runtime&quot; class=&quot;headerlink&quot; title=&quot;Runtime&quot;&gt;&lt;/a&gt;Runtime&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;Runloop&quot;&gt;&lt;a href=&quot;#Runloop&quot; class=&quot;headerlink&quot; title=&quot;Runloop&quot;&gt;&lt;/a&gt;Runloop&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;沙盒机制&quot;&gt;&lt;a href=&quot;#沙盒机制&quot; class=&quot;headerlink&quot; title=&quot;沙盒机制&quot;&gt;&lt;/a&gt;沙盒机制&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;Coretext&quot;&gt;&lt;a href=&quot;#Coretext&quot; class=&quot;headerlink&quot; title=&quot;Coretext&quot;&gt;&lt;/a&gt;Coretext&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;Class-dump&quot;&gt;&lt;a href=&quot;#Class-dump&quot; class=&quot;headerlink&quot; title=&quot;Class dump&quot;&gt;&lt;/a&gt;Class dump&lt;/h4&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;此文仅以自勉!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;h3 id=&quot;编程语言&quot;&gt;&lt;a href=&quot;#编程语言&quot; class=&quot;headerlink&quot; title=&quot;编程语言&quot;&gt;&lt;/a&gt;编程语言&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;h4 i
-    
-    </summary>
-    
-      <category term="移动开发" scheme="http://yoursite.com/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
-    
-    
-      <category term="iOS" scheme="http://yoursite.com/tags/iOS/"/>
-    
-      <category term="自勉" scheme="http://yoursite.com/tags/%E8%87%AA%E5%8B%89/"/>
-    
-  </entry>
   
   <entry>
     <title>二十三岁的时候</title>
